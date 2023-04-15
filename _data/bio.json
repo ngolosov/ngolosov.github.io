@@ -144,25 +144,6 @@
 		}
 	],
 
-	"awards": [{
-		"title": "Award",
-		"date": "2014-11-01",
-		"awarder": "Company",
-		"summary": "There is no spoon."
-	}],
-	"certificates": [{
-		"name": "Certificate",
-		"date": "2021-11-07",
-		"issuer": "Company",
-		"url": "https://certificate.com"
-	}],
-	"publications": [{
-		"name": "Publication",
-		"publisher": "Company",
-		"releaseDate": "2014-10-01",
-		"url": "https://publication.com",
-		"summary": "Description…"
-	}],
 	"skills": [{
 			"name": "Programming",
 			"level": "",
@@ -232,10 +213,6 @@
 			]
 		}
 	],
-	"languages": [{
-		"language": "English",
-		"fluency": "Native speaker"
-	}],
 	"interests": [{
 			"name": "Remote Sensing and Geospatial Analysis",
 			"keywords": [
