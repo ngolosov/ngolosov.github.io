@@ -1,14 +1,14 @@
 {
 	"basics": {
 		"name": "Nikolay Golosov",
-		"label": "Graduate Student",
-		"picture": "",
+		"label": "Graduate Student at Penn State Geography",
+		"picture": "https://avatars.githubusercontent.com/u/29942619",
 		"email": "golosov@psu.edu",
 		"phone": "",
 		"website": "https://ngolosov.github.io",
-		"summary": "",
+		"summary": "My research interests include GIS, remote sensing and computer science. I have experience in geo-information technologies and land surveying in the oil and gas sector. I am looking to apply my skills in spatial data analysis using GIS to improve urban environments.",
 		"location": {
-			"address": "Walker building",
+			"address": "Department of Geography, PSU",
 			"postalCode": "16803",
 			"city": "University Park",
 			"countryCode": "US",
