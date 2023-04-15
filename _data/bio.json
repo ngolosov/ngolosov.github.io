@@ -1,26 +1,26 @@
 {
 	"basics": {
-		"name": "",
-		"label": "",
+		"name": "Nikolay Golosov",
+		"label": "Graduate Student",
 		"picture": "",
-		"email": "",
+		"email": "golosov@psu.edu",
 		"phone": "",
-		"website": "",
+		"website": "https://ngolosov.github.io",
 		"summary": "",
 		"location": {
-			"address": "",
-			"postalCode": "",
-			"city": "",
-			"countryCode": "",
-			"region": ""
+			"address": "Walker building",
+			"postalCode": "16803",
+			"city": "University Park",
+			"countryCode": "US",
+			"region": "PA"
 		}
 	},
 	"work": [{
 			"company": "Pennsylvania State University",
 			"position": "Graduate research assistant",
 			"website": "",
-			"startDate": "August 2021",
-			"endData": "Present",
+			"startDate": "2021-07-01",
+			"endData": "",
 			"summary": "",
 			"highlights": [
 				"Conducted research on improving the energy efficiency of the College of EMS buildings and specifically on improving the accuracy of the thermal imagery predictions.",
@@ -32,8 +32,8 @@
 			"company": "University of Northern Iowa",
 			"position": "Program Assistant",
 			"website": "",
-			"startDate": "July 2020",
-			"endData": "August 2021",
+			"startDate": "2020-06-01",
+			"endData": "2021-08-01",
 			"summary": "",
 			"highlights": [
 				"Conducted research on the spatial and temporal dynamics of the COVID-19 pandemic in the Arctic.",
@@ -45,8 +45,8 @@
 			"company": "University of Northern Iowa",
 			"position": "Graduate Research Assistant",
 			"website": "",
-			"startDate": "January 2018",
-			"endData": "July 2020",
+			"startDate": "2018-01-01",
+			"endData": "2020-07-01",
 			"summary": "",
 			"highlights": [
 				"Conducted research on Taimyr wild reindeer aerial census data to gain a novel understanding of the wild reindeer migration process and its relationships with natural and anthropogenic factors.",
@@ -58,8 +58,8 @@
 			"company": "Langan Engineering & Environmental Services",
 			"position": "GIS Development Intern",
 			"website": "",
-			"startDate": "June",
-			"endData": "August 2019",
+			"startDate": "2019-06-01",
+			"endData": "2019-08-01",
 			"summary": "",
 			"highlights": [
 				"Developed an ArcGIS Pro toolbox and set of standalone Python scripts for GIS administrators to automate various ArcGIS Enterprise/ArcGIS Online administrative tasks.",
@@ -71,8 +71,8 @@
 			"company": "Veeam Software",
 			"position": "Technical Customer Support",
 			"website": "",
-			"startDate": "November 2016",
-			"endData": "January 2018",
+			"startDate": "2016-11-01",
+			"endData": "2018-01-10",
 			"summary": "",
 			"highlights": [
 				"Effectively resolved various infrastructure issues on the client side using strong problem-solving, troubleshooting and debugging skills.",
@@ -83,8 +83,8 @@
 			"company": "LUKOIL International Services",
 			"position": "Surveyor",
 			"website": "",
-			"startDate": "December 2012",
-			"endData": "May 2016",
+			"startDate": "2012-12-01",
+			"endData": "2016-05-01",
 			"summary": "",
 			"highlights": [
 				"Developed a web-GIS that significantly improved management situational awareness and which was used extensively in the daily activities of field and remote branch offices.",
@@ -98,8 +98,8 @@
 			"company": "Saint-Petersburg Heating Grid",
 			"position": "GIS Engineer",
 			"website": "",
-			"startDate": "May",
-			"endData": "November 2012",
+			"startDate": "2012-01-01",
+			"endData": "2012-11-01",
 			"summary": "",
 			"highlights": [
 				"Provided technical support to users of the internal custom desktop GIS.",
