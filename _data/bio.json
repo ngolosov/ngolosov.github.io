@@ -1,100 +1,149 @@
 {
-    basics: {
-        first_name: '',
-        last_name: '',
-        full_name: '',
-        email: '',
-        phone_number: '',
-        location: '',
-        portfolio_website_url: '',
-        linkedin_url: '',
-        github_main_page_url: '',
-        university: 'Penn State University',
-        education_level: 'PhD',
-        graduation_year: '2025',
-        graduation_month: 'July',
-        majors: 'Geography',
-        GPA: ''
-    },
-    work: [
-        {
-            job_title: 'Graduate Research Assistant',
-            company: 'Pennsylvania State University',
-            location: 'University Park, PA',
-            duration: 'August 2021 - Present',
-            job_summary: 'Conducted research on improving the energy efficiency of the College of EMS buildings and specifically on improving the accuracy of the thermal imagery predictions. Developed a web application to disseminate the collected thermal and visible light images to a wide audience using the Python, Mathplotlib, and Flir Scientific File API.'
-        },
-        {
-            job_title: 'Program Assistant',
-            company: 'University of Northern Iowa',
-            location: 'Cedar Falls, IA',
-            duration: 'July 2020 – August 2021',
-            job_summary: 'Conducted research on the spatial and temporal dynamics of the COVID-19 pandemic in the Arctic. Developed a real-time web-based COVID-19 data hub consisting of reporting application, dashboard, and website to facilitate the understanding of the COVID-19 development in the Arctic using the ArcGIS Online and ArcGIS Python API.'
-        },
-        {
-            job_title: 'Graduate Research Assistant',
-            company: 'University of Northern Iowa',
-            location: 'Cedar Falls, IA',
-            duration: 'January 2018 – July 2020',
-            job_summary: 'Conducted research on Taimyr wild reindeer aerial census data to gain a novel understanding of the wild reindeer migration process and its relationships with natural and anthropogenic factors. Developed a semi-automatic digitization workflow of historical reindeer aerial census reports by using ESRI ArcGIS ArcMap and FME Desktop.'
-        },
-        {
-            job_title: 'GIS Development Intern',
-            company: 'Langan Engineering & Environmental Services',
-            location: 'Parsippany, NJ',
-            duration: 'June — August 2019',
-            job_summary: 'Developed an ArcGIS Pro toolbox and set of standalone Python scripts for GIS administrators to automate various ArcGIS Enterprise/ArcGIS Online administrative tasks using ArcPy / ArcGIS API for Python. Developed a toolbox targeted for end-users to provide an easy and effective way to download photographs created by Collector for ArcGIS from ArcGIS Online / Portal.'
-        },
-        {
-            job_title: 'Customer Care Representative',
-            company: 'Veeam Software',
-            location: 'St. Petersburg',
-            duration: 'November 2016 — January 2018',
-            job_summary: 'Effectively resolved various infrastructure issues on the client side (VMWare VSphere, HyperV, Windows Server 2008/2012/2016, Microsoft Exchange 2007-2016, Active Directory, MS SQL Server, Oracle) preventing backup/replication/restore from successful execution using strong problem-solving, troubleshooting and debugging skills.'
-        },
-        {
-            job_title: 'Surveyor',
-            company: 'LUKOIL International Services',
-            location: 'Basra province, Iraq',
-            duration: 'December 2012 — May 2016',
-            job_summary: 'Developed a web-GIS that significantly improved management situational awareness and which was used extensively in the daily activities of field and remote branch offices using ArcGIS Server 10.4. Developed software for the automatic collection of panoramic images using Python scripts.'
-        },
-        {
-            job_title: 'GIS Engineer',
-            company: 'Saint-Petersburg Heating Grid',
-            location: 'St. Petersburg',
-            duration: 'May — November 2012',
-            job_summary: 'Provided technical support to users of the internal custom desktop GIS (C# ESRI runtime-based application) by providing easy-to-understand documentation. Streamlined the installation and configuration process of ESRI Runtime on client workstations using custom Active Directory policies.'
-        }
-    ],
-    project_experience: [
-        {
-            project_name: 'COVID-19 Pandemic and Air Quality Research and Web Application',
-            project_discription: 'Conducted research on studying the relationship between the development of the COVID-19 pandemic and air quality in the US as well as creating an accompanying web application to facilitate the data exploration.'
-        },
-        {
-            project_name: 'Thermal Remote Sensing Research and Web Application',
-            project_discription: 'Conducted research on improving the energy efficiency of the College of EMS buildings and specifically on improving the accuracy of the thermal imagery predictions, and developed a web application to disseminate the collected thermal and visible light images to a wide audience using the Python, Mathplotlib, and Flir Scientific File API.'
-        },
-        {
-            project_name: 'COVID-19 Arctic Data Hub',
-            project_discription: 'Developed a real-time web-based COVID-19 data hub consisting of reporting application, dashboard, and website to facilitate the understanding of the COVID-19 development in the Arctic using the ArcGIS Online and ArcGIS Python API.'
-        },
-        {
-            project_name: 'Taimyr Wild Reindeer Aerial Census Data Research',
-            project_discription: 'Conducted research on Taimyr wild reindeer aerial census data to gain a novel understanding of the wild reindeer migration process and its relationships with natural and anthropogenic factors, and developed a semi-automatic digitization workflow of historical reindeer aerial census reports by using ESRI ArcGIS ArcMap and FME Desktop.'
-        },
-        {
-            project_name: 'ArcGIS Pro Toolbox and Python Scripts',
-            project_discription: 'Developed an ArcGIS Pro toolbox and set of standalone Python scripts for GIS administrators to automate various ArcGIS Enterprise/ArcGIS Online administrative tasks using ArcPy / ArcGIS API for Python.'
-        },
-        {
-            project_name: 'Photograph Download Toolbox',
-            project_discription: 'Developed a toolbox targeted for end-users to provide an easy and effective way to download photographs created by Collector for ArcGIS from ArcGIS Online / Portal.'
-        },
-        {
-            project_name: 'Internal GIS Development',
-            project_discription: 'Provided technical support to users of the internal custom desktop GIS (C# ESRI runtime-based application). Streamlined the installation and configuration process of ESRI Runtime on client workstations using custom Active Directory policies. Drafted technical assignments and requirements for the development of new versions of the internal GIS, which resulted in the earlier development of a new version of the software. Deployed a test environment that streamlined the testing process of the new versions of internal GIS using VMWare vSphere.'
-        }
-    ]
+	"basics": {
+		"name": "",
+		"label": "",
+		"picture": "",
+		"email": "",
+		"phone": "",
+		"website": "",
+		"summary": "",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "",
+			"countryCode": "",
+			"region": ""
+		}
+	},
+	"work": [{
+			"company": "Pennsylvania State University",
+			"position": "Graduate research assistant",
+			"website": "",
+			"startDate": "August 2021",
+			"endData": "Present",
+			"summary": "",
+			"highlights": [
+				"Conducted research on improving the energy efficiency of the College of EMS buildings and specifically on improving the accuracy of the thermal imagery predictions.",
+				"Developed a web application to disseminate the collected thermal and visible light images to a wide audience using the Python, Mathplotlib, and Flir Scientific File API.",
+				"Conducted research on studying the relationship between the development of the COVID-19 pandemic and air quality in the US as well as creating an accompanying web application to facilitate the data exploration."
+			]
+		},
+		{
+			"company": "University of Northern Iowa",
+			"position": "Program Assistant",
+			"website": "",
+			"startDate": "July 2020",
+			"endData": "August 2021",
+			"summary": "",
+			"highlights": [
+				"Conducted research on the spatial and temporal dynamics of the COVID-19 pandemic in the Arctic.",
+				"Developed a real-time web-based COVID-19 data hub consisting of reporting application, dashboard, and website to facilitate the understanding of the COVID-19 development in the Arctic using the ArcGIS Online and ArcGIS Python API.",
+				"Published the resulting datasets on the NSF’s Arctic Data Center website."
+			]
+		},
+		{
+			"company": "University of Northern Iowa",
+			"position": "Graduate Research Assistant",
+			"website": "",
+			"startDate": "January 2018",
+			"endData": "July 2020",
+			"summary": "",
+			"highlights": [
+				"Conducted research on Taimyr wild reindeer aerial census data to gain a novel understanding of the wild reindeer migration process and its relationships with natural and anthropogenic factors.",
+				"Developed a semi-automatic digitization workflow of historical reindeer aerial census reports by using ESRI ArcGIS ArcMap and FME Desktop, which sped up the manual digitization process by approx. 2x times.",
+				"Created and published a popular dataset on Taimyr reindeer counts and migration patterns on NSF’s Arctic Data Center website."
+			]
+		},
+		{
+			"company": "Langan Engineering & Environmental Services",
+			"position": "GIS Development Intern",
+			"website": "",
+			"startDate": "June",
+			"endData": "August 2019",
+			"summary": "",
+			"highlights": [
+				"Developed an ArcGIS Pro toolbox and set of standalone Python scripts for GIS administrators to automate various ArcGIS Enterprise/ArcGIS Online administrative tasks.",
+				"Developed a toolbox targeted for end-users to provide an easy and effective way to download photographs created by Collector for ArcGIS from ArcGIS Online/Portal.",
+				"Performed routine content management tasks such as putting together and publishing various web maps and web applications using ArcGIS Pro and Web App Builder leading to improved appearance of the web applications and increased engagement of intranet web-GIS application users."
+			]
+		},
+		{
+			"company": "Veeam Software",
+			"position": "Technical Customer Support",
+			"website": "",
+			"startDate": "November 2016",
+			"endData": "January 2018",
+			"summary": "",
+			"highlights": [
+				"Effectively resolved various infrastructure issues on the client side using strong problem-solving, troubleshooting and debugging skills.",
+				"Delivered 100% customer satisfaction rate while providing technical support by using Cisco WebEx and Teamviewer remote support tools."
+			]
+		},
+		{
+			"company": "LUKOIL International Services",
+			"position": "Surveyor",
+			"website": "",
+			"startDate": "December 2012",
+			"endData": "May 2016",
+			"summary": "",
+			"highlights": [
+				"Developed a web-GIS that significantly improved management situational awareness and which was used extensively in the daily activities of field and remote branch offices.",
+				"Developed software for the automatic collection of panoramic images using Python scripts.",
+				"Reduced time needed for the preparation of demining reports by creating a custom Python script to generate PDF documents.",
+				"Improved CAD to GIS conversion accuracy using custom ETL workflows built-in FME Desktop.",
+				"Effectively kept GIS information up to date by performing GPS surveys using Leica and Trimble GPS equipment."
+			]
+		},
+		{
+			"company": "Saint-Petersburg Heating Grid",
+			"position": "GIS Engineer",
+			"website": "",
+			"startDate": "May",
+			"endData": "November 2012",
+			"summary": "",
+			"highlights": [
+				"Provided technical support to users of the internal custom desktop GIS.",
+				"Streamlined the installation and configuration process of ESRI Runtime on client workstations using custom Active Directory policies.",
+				"Prepared electronic maps, schemes, and diagrams which significantly improved client awareness during emergencies.",
+				"Drafted technical assignments and requirements for the development of new versions of the internal GIS.",
+				"Deployed a test environment that streamlined the testing process of the new versions of internal GIS using VMWare vSphere."
+			]
+		}
+	],
+	"education": [{
+			"institution": "Penn State University",
+			"area": "Ph.D., Geography",
+			"studyType": "",
+			"endDate": "July 2025",
+			"gpa": "",
+			"courses": [
+				"Environmental Data Analytics",
+				"Geographic Information Management",
+				"GIS Programming",
+				"Advanced Python Programming for GIS"
+			]
+		},
+		{
+			"institution": "University of Northern Iowa",
+			"area": "Master’s degree in Geography (Graduate Certificate in GIS and Cartography)",
+			"studyType": "",
+			"endDate": "Jul 2021",
+			"gpa": "",
+			"courses": [
+				"Advanced GIS",
+				"Web GIS",
+				"Advanced Remote Sensing",
+				"GIS Software Development",
+				"Spatial Statistics"
+			]
+		},
+		{
+			"institution": "Saint-Petersburg State University",
+			"area": "B.S/Specialist degree, Applied informatics in Geography",
+			"studyType": "",
+			"endDate": "2011",
+			"gpa": "",
+			"courses": []
+		}
+	]
 }
