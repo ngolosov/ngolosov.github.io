@@ -1,116 +1,100 @@
 {
-  "basics": {
-    "name": "Nikolay Golosov",
-    "label": "Graduate student",
-    "picture": "https://avatars.githubusercontent.com/u/29942619?s=400&u=460fafe98041081670d03b905e9b6a90654a327b&v=4",
-    "email": "geouser@gmail.com",
-    "phone": "808-333-4444",
-    "website": "https://ngolosov.github.io",
-    "summary": "I'm a graduate student at PSU Geography",
-    "location": { "address": "", "postalCode": "16801", "city": "State College", "countryCode": "USA", "region": "PA" },
-    "profiles": [
-      { "network": "github", "username": "ngolosov", "url": "http://github.com/ngolosov" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/nikolay-golosov" }
+    basics: {
+        first_name: '',
+        last_name: '',
+        full_name: '',
+        email: '',
+        phone_number: '',
+        location: '',
+        portfolio_website_url: '',
+        linkedin_url: '',
+        github_main_page_url: '',
+        university: 'Penn State University',
+        education_level: 'PhD',
+        graduation_year: '2025',
+        graduation_month: 'July',
+        majors: 'Geography',
+        GPA: ''
+    },
+    work: [
+        {
+            job_title: 'Graduate Research Assistant',
+            company: 'Pennsylvania State University',
+            location: 'University Park, PA',
+            duration: 'August 2021 - Present',
+            job_summary: 'Conducted research on improving the energy efficiency of the College of EMS buildings and specifically on improving the accuracy of the thermal imagery predictions. Developed a web application to disseminate the collected thermal and visible light images to a wide audience using the Python, Mathplotlib, and Flir Scientific File API.'
+        },
+        {
+            job_title: 'Program Assistant',
+            company: 'University of Northern Iowa',
+            location: 'Cedar Falls, IA',
+            duration: 'July 2020 – August 2021',
+            job_summary: 'Conducted research on the spatial and temporal dynamics of the COVID-19 pandemic in the Arctic. Developed a real-time web-based COVID-19 data hub consisting of reporting application, dashboard, and website to facilitate the understanding of the COVID-19 development in the Arctic using the ArcGIS Online and ArcGIS Python API.'
+        },
+        {
+            job_title: 'Graduate Research Assistant',
+            company: 'University of Northern Iowa',
+            location: 'Cedar Falls, IA',
+            duration: 'January 2018 – July 2020',
+            job_summary: 'Conducted research on Taimyr wild reindeer aerial census data to gain a novel understanding of the wild reindeer migration process and its relationships with natural and anthropogenic factors. Developed a semi-automatic digitization workflow of historical reindeer aerial census reports by using ESRI ArcGIS ArcMap and FME Desktop.'
+        },
+        {
+            job_title: 'GIS Development Intern',
+            company: 'Langan Engineering & Environmental Services',
+            location: 'Parsippany, NJ',
+            duration: 'June — August 2019',
+            job_summary: 'Developed an ArcGIS Pro toolbox and set of standalone Python scripts for GIS administrators to automate various ArcGIS Enterprise/ArcGIS Online administrative tasks using ArcPy / ArcGIS API for Python. Developed a toolbox targeted for end-users to provide an easy and effective way to download photographs created by Collector for ArcGIS from ArcGIS Online / Portal.'
+        },
+        {
+            job_title: 'Customer Care Representative',
+            company: 'Veeam Software',
+            location: 'St. Petersburg',
+            duration: 'November 2016 — January 2018',
+            job_summary: 'Effectively resolved various infrastructure issues on the client side (VMWare VSphere, HyperV, Windows Server 2008/2012/2016, Microsoft Exchange 2007-2016, Active Directory, MS SQL Server, Oracle) preventing backup/replication/restore from successful execution using strong problem-solving, troubleshooting and debugging skills.'
+        },
+        {
+            job_title: 'Surveyor',
+            company: 'LUKOIL International Services',
+            location: 'Basra province, Iraq',
+            duration: 'December 2012 — May 2016',
+            job_summary: 'Developed a web-GIS that significantly improved management situational awareness and which was used extensively in the daily activities of field and remote branch offices using ArcGIS Server 10.4. Developed software for the automatic collection of panoramic images using Python scripts.'
+        },
+        {
+            job_title: 'GIS Engineer',
+            company: 'Saint-Petersburg Heating Grid',
+            location: 'St. Petersburg',
+            duration: 'May — November 2012',
+            job_summary: 'Provided technical support to users of the internal custom desktop GIS (C# ESRI runtime-based application) by providing easy-to-understand documentation. Streamlined the installation and configuration process of ESRI Runtime on client workstations using custom Active Directory policies.'
+        }
+    ],
+    project_experience: [
+        {
+            project_name: 'COVID-19 Pandemic and Air Quality Research and Web Application',
+            project_discription: 'Conducted research on studying the relationship between the development of the COVID-19 pandemic and air quality in the US as well as creating an accompanying web application to facilitate the data exploration.'
+        },
+        {
+            project_name: 'Thermal Remote Sensing Research and Web Application',
+            project_discription: 'Conducted research on improving the energy efficiency of the College of EMS buildings and specifically on improving the accuracy of the thermal imagery predictions, and developed a web application to disseminate the collected thermal and visible light images to a wide audience using the Python, Mathplotlib, and Flir Scientific File API.'
+        },
+        {
+            project_name: 'COVID-19 Arctic Data Hub',
+            project_discription: 'Developed a real-time web-based COVID-19 data hub consisting of reporting application, dashboard, and website to facilitate the understanding of the COVID-19 development in the Arctic using the ArcGIS Online and ArcGIS Python API.'
+        },
+        {
+            project_name: 'Taimyr Wild Reindeer Aerial Census Data Research',
+            project_discription: 'Conducted research on Taimyr wild reindeer aerial census data to gain a novel understanding of the wild reindeer migration process and its relationships with natural and anthropogenic factors, and developed a semi-automatic digitization workflow of historical reindeer aerial census reports by using ESRI ArcGIS ArcMap and FME Desktop.'
+        },
+        {
+            project_name: 'ArcGIS Pro Toolbox and Python Scripts',
+            project_discription: 'Developed an ArcGIS Pro toolbox and set of standalone Python scripts for GIS administrators to automate various ArcGIS Enterprise/ArcGIS Online administrative tasks using ArcPy / ArcGIS API for Python.'
+        },
+        {
+            project_name: 'Photograph Download Toolbox',
+            project_discription: 'Developed a toolbox targeted for end-users to provide an easy and effective way to download photographs created by Collector for ArcGIS from ArcGIS Online / Portal.'
+        },
+        {
+            project_name: 'Internal GIS Development',
+            project_discription: 'Provided technical support to users of the internal custom desktop GIS (C# ESRI runtime-based application). Streamlined the installation and configuration process of ESRI Runtime on client workstations using custom Active Directory policies. Drafted technical assignments and requirements for the development of new versions of the internal GIS, which resulted in the earlier development of a new version of the software. Deployed a test environment that streamlined the testing process of the new versions of internal GIS using VMWare vSphere.'
+        }
     ]
-  },
-  "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
