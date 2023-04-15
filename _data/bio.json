@@ -6,7 +6,7 @@
 		"email": "golosov@psu.edu",
 		"phone": "",
 		"website": "https://ngolosov.github.io",
-		"summary": "My research interests include GIS, remote sensing and computer science. I have experience in geo-information technologies and land surveying in the oil and gas sector. I am looking to apply my skills in spatial data analysis using GIS to improve urban environments.",
+		"summary": "Graduate Researcher with experience in geospatial analysis and remote sensing, seeking to apply skills in data analysis, programming, and spatial analysis in a professional setting. Expertise in Python, JavaScript, GIS/Remote Sensing software, database management, and Machine/Deep Learning.",
 		"location": {
 			"address": "Department of Geography, PSU",
 			"postalCode": "16803",
@@ -142,5 +142,68 @@
 			"gpa": "",
 			"courses": []
 		}
-	]
+	],
+	
+	"awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "description": "Description…",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "keywords": [
+      "HTML"
+    ],
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "url": "https://project.com/",
+    "roles": [
+      "Team Lead"
+    ],
+    "entity": "Entity",
+    "type": "application"
+  }]
+	
 }
