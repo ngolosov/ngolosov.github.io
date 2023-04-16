@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/purpleair/purpleair1.png
+image: img/purpleair/purpleair1.PNG
 title: "PurpleAir data downloader plug-in for QGIS"
 date: 2021
 published: true
@@ -20,5 +20,5 @@ summary: "A QGIS plugin to download air quality data from PurpleAir crowdsourced
 ## Screenshots (click to enlarge):
 
 <div class="text-center p-4">
-   <a href="../img/purpleair/purpleair1.png"> <img width="200px" src="../img/purpleair/purpleair1.png" class="img-thumbnail" ></a>
+   <a href="../img/purpleair/purpleair1.PNG"> <img width="200px" src="../img/purpleair/purpleair1.PNG" class="img-thumbnail" ></a>
 </div>
