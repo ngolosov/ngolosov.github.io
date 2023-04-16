@@ -21,9 +21,9 @@ The webpage allows end-users to access thermal and visible light images that are
 ## Screenshots (click to enlarge):
 
 <div class="text-center p-4">
-   <a href="../img/inferno-web/inf1.png"> <img width="200px" src="../inferno-web/inf1.png" class="img-thumbnail" ></a>
-   <a href="../img/inferno-web/inf2.png"> <img width="200px" src="../inferno-web/inf2.png" class="img-thumbnail" ></a>
-   <a href="../img/inferno-web/inf3.png"> <img width="200px" src="../inferno-web/inf3.png" class="img-thumbnail" ></a>
-   <a href="../img/inferno-web/inf4.png"> <img width="200px" src="../inferno-web/inf4.png" class="img-thumbnail" ></a>
-   <a href="../img/inferno-web/inf5.png"> <img width="200px" src="../inferno-web/inf5.png" class="img-thumbnail" ></a>
+   <a href="../img/inferno-web/inf1.png"> <img width="200px" src="../img/inferno-web/inf1.png" class="img-thumbnail" ></a>
+   <a href="../img/inferno-web/inf2.png"> <img width="200px" src="../img/inferno-web/inf2.png" class="img-thumbnail" ></a>
+   <a href="../img/inferno-web/inf3.png"> <img width="200px" src="../img/inferno-web/inf3.png" class="img-thumbnail" ></a>
+   <a href="../img/inferno-web/inf4.png"> <img width="200px" src="../img/inferno-web/inf4.png" class="img-thumbnail" ></a>
+   <a href="../img/inferno-web/inf5.png"> <img width="200px" src="../img/inferno-web/inf5.png" class="img-thumbnail" ></a>
 </div>
