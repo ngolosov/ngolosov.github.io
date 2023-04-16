@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/dasy-map/dasymap3.PNG
+image: img/dasy-map/dasymap3.png
 title: "DasyWeb: web-based dasymetric mapping application"
 date: 2019
 published: true
@@ -21,10 +21,10 @@ summary: "DasyWeb is a web-based tool that simplifies the process of creating da
 ## Screenshots (click to enlarge):
 
 <div class="text-center p-4">
-   <a href="../img/dasy-map/dasymap1.PNG"> <img width="200px" src="..img/dasy-map/dasymap1.PNG" class="img-thumbnail" ></a>
-   <a href="../img/dasy-map/dasymap2.PNG"> <img width="200px" src="..img/dasy-map/dasymap2.PNG" class="img-thumbnail" ></a>
-   <a href="../img/dasy-map/dasymap3.PNG"> <img width="200px" src="..img/dasy-map/dasymap3.PNG" class="img-thumbnail" ></a>
-   <a href="../img/dasy-map/dasymap4.PNG"> <img width="200px" src="..img/dasy-map/dasymap4.PNG" class="img-thumbnail" ></a>
-   <a href="../img/dasy-map/dasymap5.PNG"> <img width="200px" src="..img/dasy-map/dasymap5.PNG" class="img-thumbnail" ></a>
-   <a href="../img/dasy-map/dasymap6.PNG"> <img width="200px" src="..img/dasy-map/dasymap6.PNG" class="img-thumbnail" ></a>
+   <a href="../img/dasy-map/dasymap1.png"> <img width="200px" src="..img/dasy-map/dasymap1.png" class="img-thumbnail" ></a>
+   <a href="../img/dasy-map/dasymap2.png"> <img width="200px" src="..img/dasy-map/dasymap2.png" class="img-thumbnail" ></a>
+   <a href="../img/dasy-map/dasymap3.png"> <img width="200px" src="..img/dasy-map/dasymap3.png" class="img-thumbnail" ></a>
+   <a href="../img/dasy-map/dasymap4.png"> <img width="200px" src="..img/dasy-map/dasymap4.png" class="img-thumbnail" ></a>
+   <a href="../img/dasy-map/dasymap5.png"> <img width="200px" src="..img/dasy-map/dasymap5.png" class="img-thumbnail" ></a>
+   <a href="../img/dasy-map/dasymap6.png"> <img width="200px" src="..img/dasy-map/dasymap6.png" class="img-thumbnail" ></a>
 </div>
