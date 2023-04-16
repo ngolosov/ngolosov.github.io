@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/sprinter/sprinter1.png
+image: img/sprinter/sprinter1.png
 title: "Sprinter Web-GIS"
 date: 2015
 published: true
