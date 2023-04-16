@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/diy-streetview/diy1.png
+image: img/diy-streetview/diy1.PNG
 title: "College Court Appartments Diy-Streetview"
 date: 2022
 published: true
@@ -19,7 +19,7 @@ summary: "This project uses ArcGIS API for JavaScript and KRPano panoramic viewe
 ## Screenshots (click to enlarge):
 
 <div class="text-center p-4">
-   <a href="../img/diy-streetview/diy1.png"> <img width="200px" src="../img/diy-streetview/diy1.png" class="img-thumbnail" ></a>
+   <a href="../img/diy-streetview/diy1.PNG"> <img width="200px" src="../img/diy-streetview/diy1.PNG" class="img-thumbnail" ></a>
    <a href="../img/diy-streetview/diy2.png"> <img width="200px" src="../img/diy-streetview/diy2.png" class="img-thumbnail" ></a>
    <a href="../img/diy-streetview/diy3.png"> <img width="200px" src="../img/diy-streetview/diy3.png" class="img-thumbnail" ></a>
    <a href="../img/diy-streetview/diy4.png"> <img width="200px" src="../img/diy-streetview/diy4.png" class="img-thumbnail" ></a>
