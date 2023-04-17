@@ -8,10 +8,10 @@
 		"website": "https://ngolosov.github.io",
 		"summary": "Graduate Researcher with experience in geospatial analysis and remote sensing, seeking to apply skills in data analysis, programming, and spatial analysis in a professional setting. Expertise in Python, JavaScript, GIS/Remote Sensing software, database management, and Machine/Deep Learning.",
 		"location": {
-			"address": "Department of Geography, PSU",
+			"address": "",
 			"postalCode": "16803",
 			"city": "University Park",
-			"countryCode": "US",
+			"countryCode": "",
 			"region": "PA"
 		},
 		"profiles": [{
@@ -23,7 +23,14 @@
 				"network": "linkedin",
 				"username": "nikolay-golosov",
 				"url": "http://linkedin.com/in/nikolay-golosov"
+			},
+			{
+				"network": "google-scholar",
+				"username": "Nikolay Golosov",
+				"url": "https://scholar.google.com/citations?user=MQv875gAAAAJ&hl=en"
 			}
+			     
+			     
 		]
 
 	},
