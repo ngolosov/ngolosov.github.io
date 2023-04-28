@@ -25,7 +25,7 @@ The second script, visualize_connections.py, links the spherical panoramas to on
 ## Screenshots (click to enlarge):
 
 <div class="text-center p-4">
-   <a href="../img/panoramic-tools/pt4.png"> <img width="200px" src="../img/panoramic-tools/pt3.png" class="img-thumbnail" ></a>
-   <a href="../img/panoramic-tools/pt3.png"> <img width="200px" src="../img/panoramic-tools/pt4.png" class="img-thumbnail" ></a>
+   <a href="../img/panoramic-tools/pt3.png"> <img width="200px" src="../img/panoramic-tools/pt3.png" class="img-thumbnail" ></a>
+   <a href="../img/panoramic-tools/pt4.png"> <img width="200px" src="../img/panoramic-tools/pt4.png" class="img-thumbnail" ></a>
    <a href="../img/panoramic-tools/pt2.png"> <img width="200px" src="../img/panoramic-tools/pt2.png" class="img-thumbnail" ></a>
 </div>
