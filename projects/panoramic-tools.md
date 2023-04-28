@@ -9,7 +9,6 @@ labels:
   - Python
   - GeoPandas
   - PyQT5
-  - piexif
   - Hugin tools
 summary: "This project implements Python tools for linking panoramic images into a self-hosted virtual tour, a-la Google Streetview using self-hosted Krpano panoramic viewer. These tools allow you to create a custom Streetview-like experience by connecting and displaying your panoramic images."
 ---
