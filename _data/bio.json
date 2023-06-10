@@ -1,0 +1,249 @@
+{
+	"basics": {
+		"name": "Nikolay Golosov",
+		"label": "Graduate Student at Penn State Geography",
+		"picture": "https://avatars.githubusercontent.com/u/29942619",
+		"email": "golosov@psu.edu",
+		"phone": "",
+		"website": "https://ngolosov.github.io",
+		"summary": "Graduate Researcher with experience in geospatial analysis and remote sensing, seeking to apply skills in data analysis, programming, and spatial analysis in a professional setting. Expertise in Python, JavaScript, GIS/Remote Sensing software, database management, and Machine/Deep Learning.",
+		"location": {
+			"address": "205 Walker Building",
+			"postalCode": "16802",
+			"city": "University Park",
+			"countryCode": "",
+			"region": "PA"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "ngolosov",
+				"url": "http://github.com/ngolosov"
+			},
+			{
+				"network": "linkedin",
+				"username": "nikolay-golosov",
+				"url": "http://linkedin.com/in/nikolay-golosov"
+			},
+			{
+				"network": "mortarboard-fill",
+				"username": "Nikolay Golosov",
+				"url": "https://scholar.google.com/citations?user=MQv875gAAAAJ&hl=en"
+			}
+			     
+			     
+		]
+
+	},
+	"work": [{
+			"company": "Pennsylvania State University",
+			"position": "Graduate research assistant",
+			"website": "https://psu.edu",
+			"startDate": "2021-07-01",
+			"endData": "",
+			"summary": "",
+			"highlights": [
+				"Conducted research on improving the energy efficiency of the College of EMS buildings and specifically on improving the accuracy of the thermal imagery predictions.",
+				"Developed a web application to disseminate the collected thermal and visible light images to a wide audience using the Python, Mathplotlib, and Flir Scientific File API.",
+				"Conducted research on studying the relationship between the development of the COVID-19 pandemic and air quality in the US as well as creating an accompanying web application to facilitate the data exploration."
+			]
+		},
+		{
+			"company": "University of Northern Iowa",
+			"position": "Program Assistant",
+			"website": "https://uni.edu",
+			"startDate": "2020-06-01",
+			"endData": "2021-08-01",
+			"summary": "",
+			"highlights": [
+				"Conducted research on the spatial and temporal dynamics of the COVID-19 pandemic in the Arctic.",
+				"Developed a real-time web-based COVID-19 data hub consisting of reporting application, dashboard, and website to facilitate the understanding of the COVID-19 development in the Arctic using the ArcGIS Online and ArcGIS Python API.",
+				"Published the resulting datasets on the NSF’s Arctic Data Center website."
+			]
+		},
+		{
+			"company": "University of Northern Iowa",
+			"position": "Graduate Research Assistant",
+			"website": "https://uni.edu",
+			"startDate": "2018-01-01",
+			"endData": "2020-07-01",
+			"summary": "",
+			"highlights": [
+				"Conducted research on Taimyr wild reindeer aerial census data to gain a novel understanding of the wild reindeer migration process and its relationships with natural and anthropogenic factors.",
+				"Developed a semi-automatic digitization workflow of historical reindeer aerial census reports by using ESRI ArcGIS ArcMap and FME Desktop, which sped up the manual digitization process by approx. 2x times.",
+				"Created and published a popular dataset on Taimyr reindeer counts and migration patterns on NSF’s Arctic Data Center website."
+			]
+		},
+		{
+			"company": "Langan Engineering & Environmental Services",
+			"position": "GIS Development Intern",
+			"website": "https://langan.com",
+			"startDate": "2019-06-01",
+			"endData": "2019-08-01",
+			"summary": "",
+			"highlights": [
+				"Developed an ArcGIS Pro toolbox and set of standalone Python scripts for GIS administrators to automate various ArcGIS Enterprise/ArcGIS Online administrative tasks.",
+				"Developed a toolbox targeted for end-users to provide an easy and effective way to download photographs created by Collector for ArcGIS from ArcGIS Online/Portal.",
+				"Performed routine content management tasks such as putting together and publishing various web maps and web applications using ArcGIS Pro and Web App Builder leading to improved appearance of the web applications and increased engagement of intranet web-GIS application users."
+			]
+		},
+		{
+			"company": "Veeam Software",
+			"position": "Technical Customer Support",
+			"website": "https://veeeam.com",
+			"startDate": "2016-11-01",
+			"endData": "2018-01-10",
+			"summary": "",
+			"highlights": [
+				"Effectively resolved various infrastructure issues on the client side using strong problem-solving, troubleshooting and debugging skills.",
+				"Delivered 100% customer satisfaction rate while providing technical support by using Cisco WebEx and Teamviewer remote support tools."
+			]
+		},
+		{
+			"company": "LUKOIL International Services",
+			"position": "Surveyor",
+			"website": "https://lukoil.com",
+			"startDate": "2012-12-01",
+			"endData": "2016-05-01",
+			"summary": "",
+			"highlights": [
+				"Developed a web-GIS that significantly improved management situational awareness and which was used extensively in the daily activities of field and remote branch offices.",
+				"Developed software for the automatic collection of panoramic images using Python scripts.",
+				"Reduced time needed for the preparation of demining reports by creating a custom Python script to generate PDF documents.",
+				"Improved CAD to GIS conversion accuracy using custom ETL workflows built-in FME Desktop.",
+				"Effectively kept GIS information up to date by performing GPS surveys using Leica and Trimble GPS equipment."
+			]
+		}
+	],
+	"education": [{
+			"institution": "Penn State University",
+			"area": "Geography (in progress)",
+			"studyType": "Ph.D.",
+			"endDate": "2025-07-01",
+			"gpa": "",
+			"courses": [
+				"Environmental Data Analytics",
+				"Geographic Information Management",
+				"GIS Programming",
+				"Advanced Python Programming for GIS"
+			]
+		},
+		{
+			"institution": "University of Northern Iowa",
+			"area": "Geography/Graduate Certificate in GIS and Cartography",
+			"studyType": "Master's",
+			"endDate": "2021-01-01",
+			"gpa": "",
+			"courses": [
+				"Advanced GIS",
+				"Web GIS",
+				"Advanced Remote Sensing",
+				"GIS Software Development",
+				"Spatial Statistics"
+			]
+		},
+		{
+			"institution": "Saint-Petersburg State University",
+			"area": "Applied informatics in Geography",
+			"studyType": "B.S/Specialist degree",
+			"endDate": "2011-01-01",
+			"gpa": "",
+			"courses": []
+		}
+	],
+
+	"skills": [{
+			"name": "Programming",
+			"level": "",
+			"keywords": [
+				"Python",
+				"NumPy",
+				"matplotlib",
+				"Pandas",
+				"ArcPy",
+				"JavaScript",
+				"ArcGIS API for Javascript",
+				"Leaflet",
+				"OpenLayers",
+				"GIT"
+			]
+		},
+		{
+			"name": "Machine/Deep Learning",
+			"level": "",
+			"keywords": [
+				"Scikit-learn",
+				"Tensorflow Keras",
+				"PyTorch",
+				"FB Prophet",
+				"RandomForest"
+			]
+		},
+		{
+			"name": "Database",
+			"level": "",
+			"keywords": [
+				"PostgreSQL",
+				"MySQL",
+				"Oracle",
+				"MS SQL Server",
+				"ESRI Geodatabase"
+			]
+		},
+		{
+			"name": "VR/AR Application Development",
+			"level": "",
+			"keywords": [
+				"Unity 3D",
+				"KRPano"
+			]
+		},
+		{
+			"name": "GIS/Remote Sensing",
+			"level": "",
+			"keywords": [
+				"ArcGIS Desktop/Server/Online",
+				"QGIS",
+				"ENVI",
+				"ERDAS",
+				"eCognition"
+			]
+		},
+		{
+			"name": "OS/IDEs",
+			"level": "",
+			"keywords": [
+				"Linux (including shell scripting)",
+				"Windows Server",
+				"PyCharm",
+				"Jupyter Notebook",
+				"Spyder"
+			]
+		}
+	],
+	"interests": [{
+			"name": "Remote Sensing and Geospatial Analysis",
+			"keywords": [
+				"Thermal remote sensing",
+				"GIS/RS software development",
+				"Machine/deep learning"
+			]
+		},
+		{
+			"name": "Environmental Data Analytics",
+			"keywords": [
+				"Air quality monitoring",
+				"Energy efficiency",
+				"Spatial-temporal dynamics of pandemics"
+			]
+		},
+		{
+			"name": "Data Management and Visualization",
+			"keywords": [
+				"Database management",
+				"Web-based data visualization",
+				"AR/VR application development"
+			]
+		}
+	]
+
+}
