@@ -15,7 +15,7 @@ summary: "DasyWeb is a web-based tool that simplifies the process of creating da
 
 <p>This web application designed to assist wide audience in creating dasymetric maps, which provide fine-scale estimation of the urban population using building parameters as a proxy value to assign population counts to individual buildings. The web application aims to provide an easy-to-use, publicly accessible tool using open-source technologies, which is not currently available in the market. Unlike other known tools for producing dasymetric maps that are extensions for commercial or open-source desktop GIS, the web-based application eliminates the complications in accessing the dasymetric mapping technology for novice users. The primary objective of the tool is to fill the gap and provide a web-based implementation of dasymetric mapping tools.</p>
 
-<a href = "https://gol.pythonanywhere.com/" class="btn btn-outline-dark">Visit web application</a>
+<a href = "https://youtu.be/6rnKy2cU_b4?t=60" class="btn btn-outline-dark">View a video</a>
 <a href = "https://github.com/ngolosov/dasy-web/" class="btn btn-outline-dark">View on GitHub</a>
 
 ## Screenshots (click to enlarge):
