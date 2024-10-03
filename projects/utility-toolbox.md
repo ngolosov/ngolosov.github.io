@@ -19,7 +19,7 @@ summary: "An ArcGIS Pro toolbox and standalone Python scripts for GIS administra
 ## Screenshots (click to enlarge):
 
 <div class="text-center p-4">
-   <a href="../img/index_of_tools/index_of_tools.png"> <img width="200px" src="../img/index_of_tools/index_of_tools.png" class="img-thumbnail" ></a>
+   <a href="../img/utility-toolbox/index_of_tools.png"> <img width="200px" src="../img/utility-toolbox/index_of_tools.png" class="img-thumbnail" ></a>
    <a href="../img/utility-toolbox/publish_proxy.png"> <img width="200px" src="../img/utility-toolbox/publish_proxy.png" class="img-thumbnail" ></a>
    <a href="../img/utility-toolbox/reshare.png"> <img width="200px" src="../img/utility-toolbox/reshare.png" class="img-thumbnail" ></a>
    <a href="../img/utility-toolbox/clone.png"> <img width="200px" src="../img/utility-toolbox/clone.png" class="img-thumbnail" ></a>
