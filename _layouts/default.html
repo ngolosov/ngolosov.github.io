@@ -33,8 +33,10 @@
     <link rel="stylesheet" href="{{ site.baseurl}}/css/techfolio-theme/{{ site.techfolio-theme}}">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/rouge/{{ site.rouge-theme}}">
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "mainEntity": {
   "@type": "Person",
   "name": "Nikolay Golosov",
   "url": "https://golosov.pro/",
@@ -52,9 +54,10 @@
   "worksFor": {
     "@type": "Organization",
     "name": "The Pennsylvania State University"
-  }  
-}
-</script>    
+  }
+      }
+    }
+    </script>   
     <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
     {% if site.mathjax %}
     <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
